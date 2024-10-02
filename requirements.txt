@@ -1,0 +1,4 @@
+flask
+vertexai
+python-magic
+flask-cors
