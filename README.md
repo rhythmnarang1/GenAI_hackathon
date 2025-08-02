@@ -20,7 +20,9 @@ Gemini MindCare is an GenAI driven virtual assistant designed to provide empathe
 - Gemini AI API
 - Natural Language Processing (NLP)
 
-  ##contributors
+  Contributors
+  
   -Yashav Aggarwal
+  
   -Rhythm Narang
 
